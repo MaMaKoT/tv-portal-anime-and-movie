@@ -1,0 +1,66 @@
+{
+  "headline": "МОЙ КИНОТЕАТР",
+  "menu": [
+    {
+      "type": "separator",
+      "label": "АНИМЕ"
+    },
+    {
+      "label": "🎌 YummyAnime",
+      "data": {
+        "pages": [
+          {
+            "items": [
+              {
+                "layout": "0,0,12,6",
+                "color": "msx-glass",
+                "headline": "YummyAnime",
+                "text": "Аниме, озвучки и выбор качества",
+                "button": [
+                  {
+                    "label": "Открыть YummyAnime",
+                    "action": "link:https://yummyanime.tv/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "separator",
+      "label": "ФИЛЬМЫ И СЕРИАЛЫ"
+    },
+    {
+      "label": "🎬 Tvoe.live",
+      "data": {
+        "pages": [
+          {
+            "items": [
+              {
+                "layout": "0,0,12,6",
+                "color": "msx-glass",
+                "headline": "Tvoe.live",
+                "text": "Фильмы и сериалы",
+                "button": [
+                  {
+                    "label": "Открыть Tvoe.live",
+                    "action": "link:https://tvoe.live/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "settings",
+      "label": "Настройки"
+    }
+  ]
+}
